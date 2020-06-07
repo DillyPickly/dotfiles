@@ -1,2 +1,4 @@
-# dylan.conkyrc
-conky desktop config for linux
+# my linux dotfiles
+
+- conky for desktop monitoring
+
